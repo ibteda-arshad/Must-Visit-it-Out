@@ -1,0 +1,67 @@
+@media(max-width: 1400px){
+.banner-content h1 {
+    font-size: 35px;
+    padding-right: 160px;
+}
+.features h2 {
+    font-size: 22px;
+}
+.features span {
+    font-size: 15px;
+}
+}
+@media(max-width: 1200px){
+	.banner-content p {
+    padding-right: 50px;
+}
+.banner-content h1 {
+    font-size: 34px;
+    padding-right: 40px;
+}
+.banner-content {
+    margin-top: 40px;
+}
+.btn-custom {
+    padding: 8px 25px;
+}
+.features img {
+    width: 65px;
+    height: 70px;
+}
+.features h2 {
+    font-size: 16px;
+}
+.features span {
+    font-size: 12px;
+}
+.courses h3 {
+    font-size: 17px;
+    line-height: 35px;
+    margin-bottom: -2px;
+    font-weight: 500;
+}
+.courses span {
+    font-size: 14px;
+}
+.btn-custom {
+    padding: 7px 14px !important;
+    font-size: 14px;
+}
+}
+@media(max-width: 992px){
+	.courses{
+		margin-bottom: 15px;
+	}
+	.features{
+		margin-bottom: 15px;
+	}
+	section{
+		padding: 20px 0;
+	}
+}
+@media(max-width: 768px){
+	
+}
+@media(max-width: 576px){
+	
+}
